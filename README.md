@@ -20,10 +20,10 @@ P.S. While I’d love to see an official visual refresh of the Debian logo somed
 <br />
 
 <div align="center">
-  <img alt="Logo" src="https://github.com/del-Real/debian-redesign/blob/main/Preview/Debian__DEBIAN_CM_VERTICAL.png?raw=true" width="250" />
-  <img alt="Logo" src="https://github.com/del-Real/debian-redesign/blob/main/Preview/Debian__DEBIAN_LOGOTYPE.png?raw=true" width="250" />
-  <img alt="Logo" src="https://github.com/del-Real/debian-redesign/blob/main/Preview/Debian__DEBIAN_CM_HORIZONTAL.png?raw=true" width="250" />
-  <img alt="Logo" src="https://github.com/del-Real/debian-redesign/blob/main/Preview/Debian__DEBIAN_SYMBOL.png?raw=true" width="250" />
+  <img alt="Logo" src="https://github.com/del-Real/debian-redesign/blob/main/Preview/Debian__DEBIAN_CM_VERTICAL.png?raw=true" width="350" />
+  <img alt="Logo" src="https://github.com/del-Real/debian-redesign/blob/main/Preview/Debian__DEBIAN_LOGOTYPE.png?raw=true" width="350" />
+  <img alt="Logo" src="https://github.com/del-Real/debian-redesign/blob/main/Preview/Debian__DEBIAN_CM_HORIZONTAL.png?raw=true" width="350" />
+  <img alt="Logo" src="https://github.com/del-Real/debian-redesign/blob/main/Preview/Debian__DEBIAN_SYMBOL.png?raw=true" width="350" />
 </div>
 
 <br />
