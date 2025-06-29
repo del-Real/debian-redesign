@@ -7,7 +7,7 @@ Thanks to all the feedback from those posts, I’ve created a new version that I
 
 I’m also releasing all the source files in multiple formats (.png, .jpg, .svg, .eps), as I now consider it production ready :)
 
-- Font used: Lexend
+- Font used: [Lexend](https://github.com/googlefonts/lexend)
 - File formats: .PNG, .JPG, .SVG, .EPS
 - License: MIT
 
