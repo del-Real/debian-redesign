@@ -33,5 +33,5 @@ P.S. While I’d love to see an official visual refresh of the Debian logo somed
 <br />
 
 <div align="center">
-  <img alt="Logo" src="https://github.com/del-Real/debian-redesign/blob/main/Logo_Overview.png?raw=true" width="750" />
+  <img alt="Logo" src="https://github.com/del-Real/debian-redesign/blob/main/Logo_Overview.png?raw=true" width="700" />
 </div>
